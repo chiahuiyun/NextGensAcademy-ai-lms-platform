@@ -1,6 +1,6 @@
 # NextGen's Academy - AI-Powered LMS Platform
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![Sanity](https://img.shields.io/badge/Sanity-CMS-F03E2F?logo=sanity)](https://www.sanity.io/)
@@ -9,7 +9,6 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?logo=openai)](https://openai.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
-> **Learn to build production-ready LMS platforms** with modern architecture, AI-powered features, and bespoke CMS solutions.
 
 ---
 
@@ -38,44 +37,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 👇🏼 DO THIS Before You Get Started
-
-Before diving into the code, set up accounts with these services:
-
-<table>
-<tr>
-<th>Service</th>
-<th>What It's For</th>
-<th>Get Started</th>
-</tr>
-<tr>
-<td><strong>🟢 Sanity</strong></td>
-<td>Headless CMS for all your content</td>
-<td><a href="https://www.sanity.io/sonny?utm_source=youtube&utm_medium=video&utm_content=ai-lms-platform"><strong>👉 Get Started with Sanity</strong></a></td>
-</tr>
-<tr>
-<td><strong>🔐 Clerk</strong></td>
-<td>Authentication & subscription billing</td>
-<td><a href="https://go.clerk.com/5fXjeWr"><strong>👉 Get Started with Clerk</strong></a></td>
-</tr>
-<tr>
-<td><strong>🤖 CodeRabbit</strong></td>
-<td>AI-powered code reviews</td>
-<td><a href="https://coderabbit.link/sonny-dec"><strong>👉 Get Started with CodeRabbit</strong></a></td>
-</tr>
-</table>
-
-**💡 Pro Tip:** These are the exact services used in production - you'll need them to follow along!
-
-### Other Required Services
-
-| Service | What It's For | Get Started |
-|---------|---------------|-------------|
-| **Mux** | Video hosting & streaming | 👉 [mux.com](https://www.mux.com/) |
-| **OpenAI** | AI tutor functionality | 👉 [platform.openai.com](https://platform.openai.com/) |
 
 ---
 
