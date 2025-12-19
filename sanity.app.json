@@ -1,0 +1,6 @@
+{
+  "id": "ai-lms-platform",
+  "title": "AI LMS Admin",
+  "description": "Custom admin built with Sanity App SDK",
+  "entry": "/admin"
+}
